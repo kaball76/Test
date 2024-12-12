@@ -1,4 +1,5 @@
-"name": "iwaatch",
+{
+    "name": "iwaatch",
     "language": ["en"],
     "domains": ["iwaatch.com"],
     "base_url": "https://iwaatch.com",
